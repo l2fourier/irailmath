@@ -107,7 +107,7 @@ screen -x -S $screen_name -p 0 -X stuff '\n'
 #screen -x -S $screen_name -p 0 -X stuff '\n'
 
 #run qbittorrent-nox
-qbittorrent-nox -d --webui-port=8082
+#qbittorrent-nox -d --webui-port=8082
 #qbittorrent username:admin password:adminadmin
 
 #wstunnel -s 0.0.0.0:80 &
